@@ -1,0 +1,4 @@
+-dynamic port binding: listen to port they tell us
+-specify node environment version
+-specify start script
+-create .gitignore, exclude node_modules/dependencies
